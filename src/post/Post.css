@@ -1,0 +1,13 @@
+.card{
+    margin-bottom: 20px !important;
+  
+}
+.lightcard{
+    background-color: rgb(202, 229, 229) !important;
+  
+}
+
+.darkcard{
+    background-color: rgb(245, 128, 128) !important;
+   
+}

@@ -1,0 +1,10 @@
+/* .outercontainer {
+  margin-top: 50px;
+
+} */
+
+.outercontainer {
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
+  }

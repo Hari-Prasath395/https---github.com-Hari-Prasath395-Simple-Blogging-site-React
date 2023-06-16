@@ -1,0 +1,12 @@
+
+
+
+.container .outer{
+    min-height: 100vh;
+}
+
+.btn{
+    outline: none;
+    margin: none;
+}
+
